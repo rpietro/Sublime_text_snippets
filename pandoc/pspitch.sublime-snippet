@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+PreciseSkills creates and delivers immersive, personalized, and market-driven online courses where students are trained in a context simulating the demands they will face when applying their future skill.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pspitch</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
