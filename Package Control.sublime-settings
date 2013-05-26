@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Package Control",
+		"Pandoc",
+		"Pandoc (Markdown)",
+		"Pandoc Academic",
+		"Pandown",
+		"Search Anywhere",
+		"Search Stack Overflow",
+		"SyntaxChecker"
+	]
+}

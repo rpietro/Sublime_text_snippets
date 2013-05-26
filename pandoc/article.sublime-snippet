@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+## Abstract
+<!-- will write at the end --> 
+
+## Introduction
+
+## Methods
+
+## Results
+
+## Discussion
+
+### Primacy and summary
+
+### Result 1
+### Result 2
+### Result 3
+### Result 4
+### Limitations
+
+### Future
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>article</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

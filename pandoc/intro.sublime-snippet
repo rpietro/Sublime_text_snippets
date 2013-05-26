@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+** Significance
+
+** Gap
+
+** Lit review in support of the gap
+
+** Objective
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>Introduction</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.mdown</scope> -->
+</snippet>
