@@ -2,13 +2,21 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
+		"CheckBounce",
 		"Package Control",
 		"Pandoc",
 		"Pandoc (Markdown)",
 		"Pandoc Academic",
 		"Pandown",
+		"Pylinter",
+		"R Tools",
 		"Search Anywhere",
 		"Search Stack Overflow",
-		"SyntaxChecker"
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"SyntaxChecker",
+		"Theme - Soda"
 	]
 }
