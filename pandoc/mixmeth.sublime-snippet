@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+<!-- discussion about integration between qualitative and quantitative -->
+<!-- flowchart with overall study design -->
+
+### Qualitative component
+<!-- check qualitative literature for name of interventional qualitative -->
+<!-- add qualitative headings from template -->
+
+
+### Quantitative component
+
+#### Adaptive assessment
+<!-- characteristics and timing -->
+<!-- explore R package for qualitative analysis -->
+
+
+#### Graphical exploratory analysis
+<!-- select best graphics from ggplot2, googlevis, and others -->
+<!-- explore logic methodology from sociology -->
+
+
+### Reproducible research protocol
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mixmeth</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

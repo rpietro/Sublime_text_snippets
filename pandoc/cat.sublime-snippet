@@ -1,0 +1,60 @@
+<snippet>
+	<content><![CDATA[
+
+### Item generation
+
+#### Bibliographic sources
+
+#### General sources
+Quora
+Stack exchange
+
+### Situations & multimedia
+
+
+### Multidimensional IRT calibration
+<!-- items as questions calibrated first, and then add activities calibrated against item questions -->
+
+#### Factor analysis
+
+#### Multidimensional calibration & parameters
+
+#### Differential Item Functioning 
+
+#### Testlets
+
+#### Software
+R language
+<!-- official reference -->
+mirt
+MAT
+
+
+### Multidimensional Computerized Adaptive Testing
+
+#### Item selection
+
+#### Scoring
+
+#### Quality criteria
+
+#### Concerto
+
+
+
+### Situations
+<!-- nos temos os characters que podem dar a estoria. entao eles podem dizer que existe um projeto x e que existem y tarefas a serem distribuidas. dai cada um pega uma mas sobra uma nao alocada, que caso cumprida iria beneficiar uma boa causa (10 dolares doados via givedirectly.org). o estudante se voluntariando pra fazer a coisa mostraria iniciativa, pelo menos na situacao de ajuda social. outro exemplo seria que um character esta tendo problemas e pede pro estudante fazer a sua tarefa e em troca depois ele pega a dele. essa situacao de team playing talvez precisasse de um preambulo de formacao formal de time. ou seja, numa situacao de treinamento classica seria impossivel, mas como estamos com characters enviando mensagens e com situacoes, acho que a coisa fica mais facil -->
+
+
+### Reproducible research protocol
+
+<!-- see repres snippet -->
+
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cat</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

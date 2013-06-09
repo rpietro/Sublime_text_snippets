@@ -4,6 +4,11 @@
 
 As partially described in previous sections, we followed a reproducible research protocol along the lines previously described by our group [(Vissoci, 2013)](). Briefly, all data sets, scripts, templates, software and workflows generated under this project were deposited under the public repositories [Github]() and [figshare](). For access to the specific data for this project please refer to 
 <!-- please add reference once available -->
+
+reproducible research - data and .rmd, shiny, css, js, irt display from g+ repository, zotero library, concerto files
+
+[Item analysis application](https://github.com/EconometricsBySimulation/2013-05-29-ShinyApp) by Francis Smart
+
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>repres</tabTrigger>
