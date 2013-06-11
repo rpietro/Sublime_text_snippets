@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+## Methods
+### Trial design
+Changes to trial design
+
+### Participants
+Study settings
+
+### Interventions
+
+### Outcomes
+Changes to outcomes
+
+### Sample size
+
+### Interim analyses and stopping guidelines
+
+### Randomization
+sequence generation
+type
+allocation concealment mechanism
+implementation
+blinding
+
+### Statistical methods
+Additional analyses
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rct</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
