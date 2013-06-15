@@ -1,0 +1,678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"explor",
+				"exploratory"
+			],
+			[
+				"mixmeth",
+				"mixmeth"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"analy",
+				"analysis"
+			],
+			[
+				"scal",
+				"scale"
+			],
+			[
+				"curr",
+				"current_second"
+			],
+			[
+				"current",
+				"current_hour"
+			],
+			[
+				"joke",
+				"joke_evaluation"
+			],
+			[
+				"my",
+				"my_number"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/pandoc/Marked.sublime-build",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pand",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"graph",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"snip",
+				"Snippet: repres"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"Snippet: ",
+				"Snippet: repres"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"spell",
+				"CheckBounce: Toggle Spell Checking"
+			],
+			[
+				"spel",
+				"CheckBounce: Toggle Spell Checking"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"pando",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pan",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"pre",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"ht",
+				"Pandoc: Convert a Pandoc file to HTML"
+			],
+			[
+				"setma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"previ",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"sear",
+				"Search Anywhere: From Input"
+			],
+			[
+				"search",
+				"Search Anywhere: From Input"
+			],
+			[
+				"sta",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				":W",
+				":w - Save"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rpietro/Desktop/deleteme.mdown",
+		"/Users/rpietro/preciseskills/courses/global_portuguese/global_portuguese_blueprint.mdown",
+		"/Users/rpietro/ps_articles/fingerprint_radius_fracture/fingerprint_radius_fracture.Rmd",
+		"/Users/rpietro/Desktop/.vimrc",
+		"/Users/rpietro/Desktop/simulating an item bank.Rmdown",
+		"/Users/rpietro/ps_articles/fingerprint_radius_fracture/fingerprint_radius_fracture.html",
+		"/Users/rpietro/Desktop/global_portuguese.mdown",
+		"/Users/rpietro/ps_articles/portfolio/portfolio.rmd",
+		"/Users/rpietro/preciseskills/growth_hacking/free_course/free_course.mdown",
+		"/Users/rpietro/preciseskills/growth_hacking/free_course/toolkit/index.Rmd",
+		"/Users/rpietro/preciseskills/growth_hacking/free_course/concepts/index.Rmd",
+		"/Users/rpietro/preciseskills/growth_hacking/free_course/searching/index.Rmd",
+		"/Users/rpietro/ps_articles/portfolio/Problems/index.Rmd",
+		"/Users/rpietro/preciseskills/growth_hacking/nuggets.mdown",
+		"/Users/rpietro/preciseskills/assembly_testing/xs_protocol.mdown",
+		"/Users/rpietro/preciseskills/assembly_testing/qualitative_testing.mdown",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/xs.sublime-snippet",
+		"/Users/rpietro/Desktop/conjoint_analysis_interview.mdown",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/rcit.sublime-snippet",
+		"/Users/rpietro/ps_articles/portfolio/portfolio.mdown",
+		"/Users/rpietro/Desktop/portfolio.mdown",
+		"/Users/rpietro/Desktop/irtcat_portfolio.mdown",
+		"/Users/rpietro/preciseskills/mind_hacking/portfolio.mdown",
+		"/Users/rpietro/preciseskills/growth_hacking/post_course_pr.mdown",
+		"/Users/rpietro/Desktop/postcoursePR.mdown",
+		"/Users/rpietro/Desktop/narrative_devices.mdown",
+		"/Users/rpietro/preciseskills/assembly_testing/script_writing.mdown",
+		"/Users/rpietro/Desktop/content_models.mdown",
+		"/Users/rpietro/ps_articles/XS/xs.mdown",
+		"/Users/rpietro/preciseskills/growth_hacking/niche_hacking_workflow/index.Rmd",
+		"/Users/rpietro/Desktop/nuggets",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/nugget.sublime-snippet",
+		"/Users/rpietro/preciseskills/growth_hacking/niche_hacking_workflow/niche_hacking_workflow.gv",
+		"/Users/rpietro/Desktop/free_course.rmdown",
+		"/Users/rpietro/Desktop/ps",
+		"/Users/rpietro/Desktop/peace",
+		"/Users/rpietro/ps_articles/fingerprint_shoulder_arthroscopy/fingerprint_shoulder_arthroscopy.mdown",
+		"/Users/rpietro/ps_articles/xavier_immersion/xavier_immersion.mdown",
+		"/Users/rpietro/ps_articles/xavier_success/xavier_success.mdown",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/learning_experience.sublime-snippet",
+		"/Users/rpietro/Desktop/deleteme.gv",
+		"/Users/rpietro/Desktop/XS.gv",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/graphviz/gv_template.sublime-snippet",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/graphviz/comment.sublime-snippet",
+		"/Users/rpietro/preciseskills/growth_hacking/market_research_surveys/uslca_lactation/uslca.Rmd",
+		"/Users/rpietro/preciseskills/growth_hacking/market_research.mdown",
+		"/Users/rpietro/preciseskills/growth_hacking/publicity.mdown",
+		"/Users/rpietro/preciseskills/growth_hacking/inbound_marketing.mdown",
+		"/Users/rpietro/ps_articles/divein_book/intro.mdown",
+		"/Users/rpietro/ps_articles/divein_book/divein_toc.mdown",
+		"/Users/rpietro/Desktop/test.csv",
+		"/Users/rpietro/preciseskills/publicity.mdown",
+		"/Users/rpietro/Desktop/test.html",
+		"/Users/rpietro/ps_articles/SBIR_fingerprinting/sbir_fingerprinting.mdown",
+		"/Users/rpietro/ps_articles/fingerprint_radius_fracture/fingerprint_radius_fracture.mdown",
+		"/Users/rpietro/ps_articles/fingerprint_shoulder_fracture/fingerprint_shoulder.mdown",
+		"/Users/rpietro/ps_articles/fingerprint_radius_fracture/fingerprint_radius.mdown",
+		"/Users/rpietro/Desktop/todo",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/mixmeth.sublime-snippet",
+		"/Users/rpietro/Desktop/enade",
+		"/Users/rpietro/ps_articles/language_skill.mdown",
+		"/Users/rpietro/ps_articles/xavier_proactivity/xavier_proactivity.mdown",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/cat.sublime-snippet",
+		"/Users/rpietro/Desktop/deleteme.py",
+		"/Users/rpietro/Desktop/deleteme2.py",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/rpietro/preciseskills/assembly_testing/content_models.mdown",
+		"/Users/rpietro/ps_articles/data_enrichment/data_enrichment.mdown",
+		"/Users/rpietro/Desktop/notes",
+		"/Users/rpietro/ps_articles/xavier_personality/xavier_personality.mdown",
+		"/Users/rpietro/ps_articles/xavier_multidim_unidim/MAT_comments.R",
+		"/Users/rpietro/preciseskills/UX/UX.mdown",
+		"/Users/rpietro/preciseskills/mind_hacking/XS.mdown",
+		"/Users/rpietro/preciseskills/growth_hacking/baazaar.mdown",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/rpietro/preciseskills/mind_hacking/gamification.mdown",
+		"/Users/rpietro/preciseskills/growth_hacking/social_networking.mdown",
+		"/Users/rpietro/preciseskills/growth_hacking/business_plan.mdown",
+		"/Users/rpietro/preciseskills/assembly_testing/overall_course_preparation.mdown",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/repres.sublime-snippet",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/pspitch.sublime_snippet",
+		"/Users/rpietro/preciseskills/ps_growth_hacking/market_research.mdown",
+		"/Users/rpietro/preciseskills/ps_assembly_testing/course_art.mdown",
+		"/Users/rpietro/Desktop/ps_notes.mdown",
+		"/Users/rpietro/Desktop/social networking.mdown",
+		"/Users/rpietro/Desktop/UX.mdown",
+		"/Users/rpietro/Desktop/test.txt",
+		"/Users/rpietro/Desktop/page.css",
+		"/Users/rpietro/preciseskills/ps_growth_hacking/white_papers/articles.mdown",
+		"/Users/rpietro/preciseskills/ps_growth_hacking/white_papers/deleteme.mdown",
+		"/Users/rpietro/Desktop/markdown9.css",
+		"/Users/rpietro/Desktop/pandoc.css",
+		"/Users/rpietro/preciseskills/ps_growth_hacking/white papers/pandoc.css",
+		"/Users/rpietro/preciseskills/deleteme.mdown",
+		"/Users/rpietro/preciseskills/ps_growth_hacking/white papers/articles.mdown",
+		"/Users/rpietro/preciseskills/ps_growth_hacking/white papers/RCTs.mdown",
+		"/Users/rpietro/Desktop/middle_messages.mdown",
+		"/Users/rpietro/Desktop/message4.mdown",
+		"/Users/rpietro/preciseskills/deleteme2",
+		"/Users/rpietro/preciseskills/deleteme3",
+		"/Users/rpietro/Desktop/python_hard_way/ex12.py",
+		"/Users/rpietro/Desktop/python_hard_way/ex11.py",
+		"/Users/rpietro/Desktop/python_hard_way/ex10.py",
+		"/Users/rpietro/Desktop/python_hard_way/ex7.py",
+		"/Users/rpietro/Desktop/python_hard_way/ex6.py",
+		"/Users/rpietro/Desktop/python_hard_way/ex4.py",
+		"/Users/rpietro/Desktop/python_hard_way/ex5.py",
+		"/Users/rpietro/Desktop/python_hard_way/ex3.py",
+		"/Users/rpietro/Desktop/python_hard_way/lesson1.py",
+		"/Users/rpietro/ps_articles/divein_book/book_toc.mdown",
+		"/Users/rpietro/ps_articles/book_toc.mdown",
+		"/Users/rpietro/ps_articles/publication_methods.mdown",
+		"/Users/rpietro/ps_articles/situated_schema.mdown",
+		"/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User/pandoc/deleteme.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1",
+			"\n*",
+			"table",
+			"two",
+			"  *",
+			"qualit",
+			"## ",
+			"*",
+			"guidance",
+			"\n",
+			"le",
+			"experience",
+			"qualitat",
+			"ta",
+			"scale",
+			"complex",
+			"compo",
+			"# ",
+			"anatomi",
+			"ma",
+			"rprio",
+			"rpri",
+			"multime",
+			"rprior",
+			"rpri",
+			"rprior",
+			"see",
+			"font",
+			"rprior",
+			"rpriority",
+			"situ",
+			"taking",
+			"lesson",
+			"* ",
+			"\n*",
+			"elevator pitch",
+			"tria",
+			"market re",
+			"post",
+			"conten",
+			"tria",
+			"tri",
+			"don",
+			"\n#",
+			"int.",
+			"welcome",
+			"int",
+			"week 9",
+			"Adelia,"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"##"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fin",
+				"ps_articles/fingerprint_radius_fracture/fingerprint_radius_fracture.Rmd"
+			],
+			[
+				"fing",
+				"ps_articles/fingerprint_radius_fracture/fingerprint_radius_fracture.html"
+			],
+			[
+				"por",
+				"ps_articles/portfolio/portfolio.rmd"
+			],
+			[
+				"toolki",
+				"preciseskills/growth_hacking/free_course/toolkit/index.Rmd"
+			],
+			[
+				"free",
+				"preciseskills/growth_hacking/free_course/free_course.mdown"
+			],
+			[
+				"index",
+				"ps_articles/portfolio/Problems/index.Rmd"
+			],
+			[
+				"inde",
+				"preciseskills/growth_hacking/free_course/searching/index.Rmd"
+			],
+			[
+				"fre",
+				"preciseskills/growth_hacking/free_course/free_course.mdown"
+			],
+			[
+				"nug",
+				"preciseskills/growth_hacking/nuggets.mdown"
+			],
+			[
+				"nugg",
+				"preciseskills/growth_hacking/nuggets.mdown"
+			],
+			[
+				"xs_",
+				"preciseskills/assembly_testing/xs_protocol.mdown"
+			],
+			[
+				"qual",
+				"preciseskills/assembly_testing/qualitative_testing.mdown"
+			],
+			[
+				"pos",
+				"preciseskills/growth_hacking/post_course_pr.mdown"
+			],
+			[
+				"xs",
+				"ps_articles/XS/xs.mdown"
+			],
+			[
+				"work",
+				"preciseskills/growth_hacking/niche_hacking_workflow/niche_hacking_workflow.gv"
+			],
+			[
+				"radi",
+				"ps_articles/fingerprint_radius_fracture/fingerprint_radius_fracture.mdown"
+			],
+			[
+				"shoul",
+				"ps_articles/fingerprint_shoulder_arthroscopy/fingerprint_shoulder_arthroscopy.mdown"
+			],
+			[
+				"enri",
+				"ps_articles/data_enrichment/data_enrichment.mdown"
+			],
+			[
+				"imm",
+				"ps_articles/xavier_immersion/xavier_immersion.mdown"
+			],
+			[
+				"pub",
+				"preciseskills/growth_hacking/publicity.mdown"
+			],
+			[
+				"inbou",
+				"preciseskills/growth_hacking/inbound_marketing.mdown"
+			],
+			[
+				"publi",
+				"preciseskills/growth_hacking/publicity.mdown"
+			],
+			[
+				"marke",
+				"preciseskills/growth_hacking/market_research.mdown"
+			],
+			[
+				"usl",
+				"preciseskills/growth_hacking/market_research_surveys/uslca_lactation/uslca.Rmd"
+			],
+			[
+				"to",
+				"ps_articles/divein_book/divein_toc.mdown"
+			],
+			[
+				"boo",
+				"ps_articles/divein_book/intro.mdown"
+			],
+			[
+				"pu",
+				"preciseskills/publicity.mdown"
+			],
+			[
+				"sbi",
+				"ps_articles/SBIR_fingerprinting/sbir_fingerprinting.mdown"
+			],
+			[
+				"qualit",
+				"preciseskills/assembly_testing/qualitative_testing.mdown"
+			],
+			[
+				"sbri",
+				"ps_articles/SBIR_fingerprinting/sbir_fingerprinting.mdown"
+			],
+			[
+				"succ",
+				"ps_articles/xavier_success/xavier_success.mdown"
+			],
+			[
+				"qu",
+				"preciseskills/assembly_testing/qualitative_testing.mdown"
+			],
+			[
+				"x",
+				"ps_articles/XS/xs.mdown"
+			],
+			[
+				"ba",
+				"preciseskills/growth_hacking/baazaar.mdown"
+			],
+			[
+				"baa",
+				"preciseskills/growth_hacking/baazaar.mdown"
+			],
+			[
+				"c",
+				"preciseskills/assembly_testing/content_models.mdown"
+			],
+			[
+				"mark",
+				"preciseskills/growth_hacking/market_research.mdown"
+			],
+			[
+				"per",
+				"ps_articles/xavier_personality/xavier_personality.mdown"
+			],
+			[
+				"toc",
+				"ps_articles/divein_book/divein_toc.mdown"
+			],
+			[
+				"ux",
+				"preciseskills/UX/UX.mdown"
+			],
+			[
+				"gami",
+				"preciseskills/mind_hacking/gamification.mdown"
+			],
+			[
+				"soc",
+				"preciseskills/growth_hacking/social_networking.mdown"
+			],
+			[
+				"po",
+				"preciseskills/growth_hacking/post_course_pr.mdown"
+			],
+			[
+				"busin",
+				"preciseskills/growth_hacking/business_plan.mdown"
+			],
+			[
+				"sb",
+				"ps_articles/SBIR_fingerprinting/sbir_fingerprinting.mdown"
+			],
+			[
+				"in",
+				"preciseskills/growth_hacking/inbound_marketing.mdown"
+			],
+			[
+				"mar",
+				"preciseskills/growth_hacking/market_research.mdown"
+			],
+			[
+				"ma",
+				"preciseskills/ps_growth_hacking/market_research.mdown"
+			],
+			[
+				"con",
+				"preciseskills/ps_assembly_testing/content_models.mdown"
+			],
+			[
+				"sche",
+				"ps_articles/situated_schema.mdown"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}
