@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+## Title:
+* Whole learning tasks:
+* Assessment skills:
+* Sequencing:
+* Supporting information:
+    * scaffolding: provide slides/videos/ordered references -> references/worked out examples, reference search/error recovery videos
+* Procedural information: SOP
+    * scaffolding: provide information at the time of assessment -> link associated with assessment -> guidance on search for procedure -> no guidance
+* Experience components:
+    * Comedy:
+    * Narrative: intrigue, mystery
+    * Music:
+    * Empathy:
+    * Behavioral CAT:
+    * Other Immersion:
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>Merrienboer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

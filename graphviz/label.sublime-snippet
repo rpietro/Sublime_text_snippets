@@ -1,14 +1,9 @@
 <snippet>
 	<content><![CDATA[
-## Nugget title:
-* Learning task:
-* Assessment:
-* Immersion:
-* Supporting information:
-* divein:
+${1:} [label = "${w:}"]
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>nugget</tabTrigger>
+	<tabTrigger>label</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<scope>source.gv</scope>
 </snippet>
