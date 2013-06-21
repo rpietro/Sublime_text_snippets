@@ -2,12 +2,12 @@
 	<content><![CDATA[
 digraph foo {
 
-    /* setting labels*/
+    /* setting labels
     name [label = "this is a\nname expansion"]
 
 
 
-    /*setting layout*/ 
+    /*setting layout
     edge [
         arrowhead="none"
     ]
@@ -15,7 +15,7 @@ digraph foo {
 
     subgraph design { 
         rank = same; qualitative; quantitative; 
-    }
+    }*/
 
     
     /*workflow*/
@@ -27,5 +27,5 @@ digraph foo {
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>gv</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.gv</scope>
+	<!-- <scope>source.gv</scope> -->
 </snippet>
