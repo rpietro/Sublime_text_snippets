@@ -1,0 +1,15 @@
+{
+	"git_binary": "/usr/local/bin/git",
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Enhanced R",
+		"Package Control",
+		"Pandoc (Markdown)",
+		"Pandoc Academic",
+		"SendText",
+		"SyntaxChecker",
+		"Theme - Soda"
+	]
+}

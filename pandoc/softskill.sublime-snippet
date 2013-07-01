@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+1. personalization
+1. interaction with other characters using soft skills to learn and validate their knowledge
+1. whole tasks
+1. supportive information based on situated schemata - keep checking learning path and precog content
+    1. tools and tricks of the trade
+    1. emotional memory through narrative and edge reinforcement
+    1. emotion connection through CAT demography and behavioral (precog)
+    1. search for opinions (quora, stack exchange)
+    1. error recovery during feedback
+1. sequencing
+    1. mixes more skills into a single whole task
+    1. scaffolding toward search, concept, and tools
+1. procedural info as repetitive schemata
+1. part-task practice as highly repetitive schemata
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>softskill</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

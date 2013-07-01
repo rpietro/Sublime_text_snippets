@@ -2,16 +2,13 @@
 	"folders":
 	[
 		{
-			"path": "pandoc"
+			"path": "/Users/rpietro/preciseskills"
 		},
 		{
 			"path": "/Users/rpietro/ps_articles"
 		},
 		{
-			"path": "/Users/rpietro/preciseskills"
-		},
-		{
-			"path": "graphviz"
+			"path": "/Users/rpietro/Library/Application Support/Sublime Text 2/Packages/User"
 		}
 	]
 }

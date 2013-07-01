@@ -4,7 +4,7 @@ digraph foo {
 
     /* setting labels
     name [label = "this is a\nname expansion"]
-
+*/
 
 
     /*setting layout
@@ -15,8 +15,8 @@ digraph foo {
 
     subgraph design { 
         rank = same; qualitative; quantitative; 
-    }*/
-
+    }
+*/ 
     
     /*workflow*/
 
@@ -25,7 +25,7 @@ digraph foo {
 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>gv</tabTrigger>
+	<tabTrigger>dot</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.gv</scope> -->
-</snippet>
+<!-- 	<scope>source.gv</scope>
+ --></snippet>

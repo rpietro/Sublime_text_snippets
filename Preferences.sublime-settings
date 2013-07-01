@@ -1,11 +1,8 @@
 {
-	"font_size": 16.0,
+	"font_size": 13.0,
 	"ignored_packages":
 	[
 		""
 	],
-	"rulers": true,
-	"spellCheck": true,
-	"spell_check": true,
-	"word_wrap": true
+	"spell_check": true
 }
