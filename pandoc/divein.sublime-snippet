@@ -2,8 +2,6 @@
 	<content><![CDATA[
 # divein blueprint
 
-
-
 ## Whole tasks delivered by characters
 
 
@@ -23,27 +21,12 @@
 
 
 ## Enrich situated schema
-
-
-### cognitive schema: supporting info
-*
-
-### situated embodiment: emotions conveyed through narrative (fun, fear, love) and empathy (tastes, demographic variables, and behavior)
-*
-
-### situated extension through technology: tools and tricks of the trade
-*
-
-### situated social extension: interaction with other characters using soft skills to learn and validate their knowledge, also search for opinions (Quora, Stack Exchange)
-*
-
-### situated enactment: part-task practice to generate tacit knowledge
-*
-
-### situated embeddedness: SOPs in text and video connected to the whole task environment
-*
-
-
+* cognitive schema: supporting info
+* situated embodiment: emotions conveyed through narrative (fun, fear, love) and empathy (tastes, demographic variables, and behavior)
+* situated extension through technology: tools and tricks of the trade
+* situated social extension: interaction with other characters using soft skills to learn and validate their knowledge, also search for opinions (Quora, Stack Exchange)
+* situated enactment: part-task practice to generate tacit knowledge
+* situated embeddedness: SOPs in text and video connected to the whole task environment
 
 
 ## Inject precog variables for personalization
@@ -57,16 +40,10 @@
 * proactiveness
 
 
-
-
 ## Sequencing of task classes
-    * simplify each component skill
-    * manipulate number and interrelationship among required skills
-    * scaffolding
-
-
-
-
+* simplify each component skill
+* manipulate number and interrelationship among required skills
+* scaffolding
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>divein</tabTrigger>
