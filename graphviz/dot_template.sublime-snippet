@@ -1,24 +1,26 @@
 <snippet>
 	<content><![CDATA[
 digraph foo {
+    
 
-    /* setting labels
-    name [label = "this is a\nname expansion"]
-*/
+    // rankdir=LR;
+
+    //setting labels
+    // name [label = "this is a\nname expansion"]
 
 
-    /*setting layout
-    edge [
-        arrowhead="none"
-    ]
+    //setting layout
+    //edge [
+    //    arrowhead="none"
+    //]
    
 
-    subgraph design { 
-        rank = same; qualitative; quantitative; 
-    }
-*/ 
+    //subgraph design { 
+    //    rank = same; qualitative; quantitative; 
+    //}
+
     
-    /*workflow*/
+    //workflow
 
     name -> name2;
 }

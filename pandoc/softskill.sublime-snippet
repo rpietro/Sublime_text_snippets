@@ -3,7 +3,7 @@
 1. personalization
 1. interaction with other characters using soft skills to learn and validate their knowledge
 1. whole tasks
-1. supportive information based on situated schemata - keep checking learning path and precog content
+1. supportive information based on situated schemata - keep an eye on learning path and precog content at each stage
     1. tools and tricks of the trade
     1. emotional memory through narrative and edge reinforcement
     1. emotion connection through CAT demography and behavioral (precog)
@@ -12,8 +12,8 @@
 1. sequencing
     1. mixes more skills into a single whole task
     1. scaffolding toward search, concept, and tools
-1. procedural info as repetitive schemata
-1. part-task practice as highly repetitive schemata
+1. procedural info as externalized schemata
+1. part-task practice as tacit schemata
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>softskill</tabTrigger>
