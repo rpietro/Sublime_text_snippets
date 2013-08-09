@@ -2,27 +2,31 @@
 	<content><![CDATA[
 digraph foo {
     
-
-    // rankdir=LR;
-
-    //setting labels
-    // name [label = "this is a\nname expansion"]
-
-
-    //setting layout
-    //edge [
-    //    arrowhead="none"
-    //]
-   
+    //rankdir=LR;   
+    //overlap = scale
+    //splines = TRUE
 
     //subgraph design { 
     //    rank = same; qualitative; quantitative; 
     //}
 
-    
-    //workflow
+    //setting layout
+    //edge [
+    //    arrowhead="none"
+    //]
 
-    name -> name2;
+    //hi [label = "heyhi"]
+    
+    //size ="4,4";
+    //node7 [shape=box];
+    //node -> node4 [weight=8];
+    //node -> node3 [style=dotted];
+    //node -> { make_string; printf}
+    //edge [color=red, style=filled];
+    //node -> node2 [style=bold,label="100 times"];
+    //node [shape=box,style=filled,color=".7 .3 1.0"]; //shape: ellipse, circle, record, plaintext
+    //node6 [ pos = "0,0!" ];
+
 }
 
 ]]></content>

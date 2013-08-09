@@ -1,8 +1,11 @@
 {
-	"font_size": 13.0,
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+	"font_size": 14.0,
 	"ignored_packages":
 	[
-		""
+		"vim"
 	],
-	"spell_check": true
+	"spell_check": true,
+	"wide_caret": true,
+	"word_wrap": "true"
 }
